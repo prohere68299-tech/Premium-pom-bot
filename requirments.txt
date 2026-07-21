@@ -1,0 +1,6 @@
+telebot
+qrcode
+Flask
+Werkzeug
+gunicorn
+requests
